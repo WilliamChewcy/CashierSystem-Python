@@ -1,0 +1,4 @@
+Burger=90
+Fries=100
+ChickenChop=100.00
+Burger=100.00

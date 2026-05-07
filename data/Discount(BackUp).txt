@@ -1,0 +1,6 @@
+Chicken=3.0
+Fries=11
+MangoCoffee=10
+Yalumba=25
+MilkTea=5.0
+Cheesecakes=6.0

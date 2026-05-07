@@ -1,0 +1,7 @@
+Burger=100 
+Fries=100
+Pizza=90
+ChickenChop=100
+BeefSteak=290
+Ribeye=245
+Chicken=55

@@ -1,0 +1,5 @@
+Icecream=90
+Cake=10
+Pastries=13
+Cheesecakes=14
+Fruit=15

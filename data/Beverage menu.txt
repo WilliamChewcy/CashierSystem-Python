@@ -1,0 +1,7 @@
+Juice=19
+MangoCoffee=25.99
+SantaJulia=35
+Yalumba=50
+MilkTea=20
+Vodka=30
+Redwine=140
