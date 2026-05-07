@@ -1,0 +1,21 @@
+# PyCharm & IDE 配置文件 (绝对不能传)
+.idea/
+.vscode/
+*.swp
+
+# macOS 系统垃圾文件
+.DS_Store
+
+# Python 运行缓存 (每次运行都会变，传了必起冲突)
+__pycache__/
+*.py[cod]
+*$py.class
+
+# 虚拟环境 (占空间极大，让别人自己装)
+venv/
+env/
+.venv/
+
+# 日志和数据库文件 (视你的项目情况)
+*.log
+*.sqlite3
